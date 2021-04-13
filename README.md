@@ -3,6 +3,10 @@
 ![GitHub Logo](https://github.com/260315/MiniProject_LTTS/blob/master/1__Requirements/img.png)
 
 
+Build | Code Quality | Unity | [Git Inspector](using github.io option)
+|---------|--------------|-----------|------------------
+
+
 
 ## Folder Structure
 Folder             | Description
