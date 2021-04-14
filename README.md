@@ -20,12 +20,16 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`260315` | Abhishek Sinha  | Feature A, B etc    | X No     | X No   |X No   |X No     
-   
+`260315` | Abhishek Sinha  | F_01,F_02,F_03,F_04,    | 4 No     | 4 No   |2 No   |2 No     
+
+| Feature Id | Feature |
+| -----------|---------|
+|F_01| Takes user data |
+|F_02| Takes input of different expenses amount and amount of income too |
+|F_03| Calculates the total amount of surplus or deficit |
+|F_04| Gives Final message to the user |
 
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
-3. ...
-4. ...
+1. The main Challenge was about not able to calculate monthly expenses and keep record of deficit or surplus amount , Functions for calculation of the total surplus or deficit amount has been made for overcoming the issue. 
+2. There was another challenge of not able to keep a record on calculations of provident fund amount, Again a function was made to calculate the amount and overcome the issue.
