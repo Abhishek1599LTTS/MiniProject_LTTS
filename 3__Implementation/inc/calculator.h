@@ -34,5 +34,8 @@ void message();
 void calculate();
 void providentfund();
 
+int calculatesum(int totaldebit,int totalcredit);
+int providentfund2(int basicPay);
+
 
 #endif
