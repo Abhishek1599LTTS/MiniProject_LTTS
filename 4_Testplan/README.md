@@ -4,7 +4,7 @@
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|    |   |  |  |  |  |  |
+| T_01 | Checks if the calculation of total amount is correct or not  | 1.)Total debit 2.)Total Credit | Total Amount | Success | Technical Based |
 
 
 
