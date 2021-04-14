@@ -5,7 +5,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 |---------|--------------|-----------|------------------
-|   |[![Code Quality - Static Code - Cppcheck](https://github.com/260315/MiniProject_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/260315/MiniProject_LTTS/actions/workflows/cppcheck.yml)|[![Unit Testing - Unity](https://github.com/260315/MiniProject_LTTS/actions/workflows/Unity.yml/badge.svg)](https://github.com/260315/MiniProject_LTTS/actions/workflows/Unity.yml)|[![Contribution Check - Git Inspector](https://github.com/260315/MiniProject_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/260315/MiniProject_LTTS/actions/workflows/gitinspector.yml)
+|[![C/C++ CI - Build Status](https://github.com/260315/MiniProject_LTTS/actions/workflows/C-build.yml/badge.svg)](https://github.com/260315/MiniProject_LTTS/actions/workflows/C-build.yml) |[![Code Quality - Static Code - Cppcheck](https://github.com/260315/MiniProject_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/260315/MiniProject_LTTS/actions/workflows/cppcheck.yml)|[![Unit Testing - Unity](https://github.com/260315/MiniProject_LTTS/actions/workflows/Unity.yml/badge.svg)](https://github.com/260315/MiniProject_LTTS/actions/workflows/Unity.yml)|[![Contribution Check - Git Inspector](https://github.com/260315/MiniProject_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/260315/MiniProject_LTTS/actions/workflows/gitinspector.yml)
 
 
 ## Folder Structure
