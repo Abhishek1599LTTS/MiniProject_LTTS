@@ -20,7 +20,6 @@ int main (){
     display();
 
     message();
-
     printf("\n");
     printf("\n");
 
