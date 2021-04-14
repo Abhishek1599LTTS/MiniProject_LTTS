@@ -20,7 +20,7 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`260315` | Abhishek Sinha  | F_01,F_02,F_03,F_04,    | 4 No     | 4 No   |2 No   |2 No     
+`260315` | Abhishek Sinha  | F_01,F_02,F_03,F_04    | 4 No     | 2 No   |2 No   |2 No     
 
 | Feature Id | Feature |
 | -----------|---------|
