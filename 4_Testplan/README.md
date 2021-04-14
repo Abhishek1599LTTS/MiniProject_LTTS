@@ -8,8 +8,4 @@
 | T_02 | Checks if the calculation of provident fund amount is correct or not  | 1.)Basic Pay | 1)Employee Fund 2.)Employer Fund | Success | Technical Based |
 
 
-## Table no: Low level test plan
 
-| **Test ID** | **HLT ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
-|-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|    |   |  |  |  |  |  |
