@@ -15,5 +15,5 @@
 ![UsecaseDiagram](https://github.com/260315/MiniProject_LTTS/blob/master/2_Design/Workspace.png)
 
 
-## Sequence Diagram :
+## Sequence Design :
 ![Sequence](https://github.com/260315/MiniProject_LTTS/blob/master/2_Design/SequenceDiag.png)
