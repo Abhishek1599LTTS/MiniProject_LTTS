@@ -6,7 +6,9 @@
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 |---------|--------------|-----------|------------------
 [![C/C++ CI - Build Status](https://github.com/260315/MiniProject_LTTS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/260315/MiniProject_LTTS/actions/workflows/c-cpp.yml)
-
+[![Contribution Check - Git Inspector](https://github.com/260315/MiniProject_LTTS/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/260315/MiniProject_LTTS/actions/workflows/gitinspector.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/260315/MiniProject_LTTS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/260315/MiniProject_LTTS/actions/workflows/cppcheck.yml)
+[![Unit Testing - Unity](https://github.com/260315/MiniProject_LTTS/actions/workflows/Unity.yml/badge.svg)](https://github.com/260315/MiniProject_LTTS/actions/workflows/Unity.yml)
 
 ## Folder Structure
 Folder             | Description
