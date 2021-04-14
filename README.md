@@ -5,7 +5,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 |---------|--------------|-----------|------------------
-
+[![C/C++ CI - Build Status](https://github.com/260315/MiniProject_LTTS/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/260315/MiniProject_LTTS/actions/workflows/c-cpp.yml)
 
 
 ## Folder Structure
