@@ -29,7 +29,7 @@
 * We can say that in future sprints new features could be added in which for the enhancement of the product.
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/260315/MiniProject_LTTS/blob/master/1__Requirements/amazon-swot-analysis-1024x576.png)
+![SWOT Analysis](https://github.com/260315/MiniProject_LTTS/blob/master/1__Requirements/Untitled%20Workspace.png)
 
 # 4W&#39;s and 1&#39;H
 
