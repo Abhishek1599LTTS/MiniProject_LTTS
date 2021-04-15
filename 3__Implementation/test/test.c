@@ -1,20 +1,23 @@
+ /**
+ * @file test.c
+ * @author your name (abhishek.1599@gmail.com)
+ * @brief TESTCASES
+ * @version 0.1
+ * @date 2021-04-14
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+
+
+
+
 #include "calculator.h"
 #include "unity.h"
 #include "unity_internals.h"
 
-int calculatesum(int totaldebit,int totalcredit){
-        
-        total_amount=totaldebit-totalcredit;
-        return total_amount;
-}
-
-int providentfund2(int basicPay){
-     
-    employeeFund=(basicPay/100)*12.5;
-    //employerFund=(basicPay/100)*12.0;
-    return employeeFund;
-    
-}
+int calculatesum(int totaldebit,int totalcredit);
+int providentfund2(int basicPay);
 
 void setUp()
 {
@@ -52,3 +55,17 @@ int main(){
 	
 
 } 
+
+int calculatesum(int totaldebit,int totalcredit){
+        
+        total_amount=totaldebit-totalcredit;
+        return total_amount;
+}
+
+int providentfund2(int basicPay){
+     
+    employeeFund=(basicPay/100)*12.5;
+    //employerFund=(basicPay/100)*12.0;
+    return employeeFund;
+    
+}
