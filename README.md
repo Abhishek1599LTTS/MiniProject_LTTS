@@ -32,4 +32,4 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 ## Challenges Faced and How Was It Overcome
 
 1. The main Challenge was about not able to calculate monthly expenses and keep record of deficit or surplus amount , Functions for calculation of the total surplus or deficit amount has been made for overcoming the issue. 
-2. There was another challenge of not able to keep a record on calculations of provident fund amount, Again a function was made to calculate the amount and overcome the issue.
+2. There was another challenge of not able to keep a record on calculations of provident fund amount, Again a function was made to calculate the amount and give a solution.
