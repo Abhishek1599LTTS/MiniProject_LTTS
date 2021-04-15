@@ -75,7 +75,10 @@ void input(){
 
  }
 
-//for calculation of providentfund
+ /**
+ * @brief for calculation of providentfund
+ *
+ */
 
 void providentfund(){  
 
