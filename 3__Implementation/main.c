@@ -27,15 +27,35 @@ int main (){
     printf("\n");
      
     input();
+ 
 
-    providentfund();  //calculation of provident fund
-    calculate();      // calculation of total amount debit and credit , calculation of remaining amount (Deficit or surplus)
+
+    providentfund();  
+ /**
+ * @brief calculation of provident fund
+ *
+ */
+    calculate();   
+ /**
+ * @brief calculation of total amount debit and credit , calculation of remaining amount (Deficit or surplus)
+ *
+ */
 
     system("cls");
 
     display();
+ 
+ /**
+ * @brief Displays output
+ *
+ */
 
-    message();       //final Message if u are smart budget planner or not
+    message();      
+  /**
+ * @brief final Message if u are smart budget planner or not.
+ *
+ */
+
     printf("\n");
     printf("\n");
 
