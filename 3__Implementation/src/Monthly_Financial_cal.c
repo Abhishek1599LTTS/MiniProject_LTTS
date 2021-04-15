@@ -14,6 +14,17 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+
+/**
+ * @file Monthly_Financial_cal.c
+ * @author your name (abhishek.1599@gmail.com)
+ * @brief  Line function is for graphic design of the program 
+ * @version 0.1
+ * @date 2021-04-11
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */  
   
 void line(){
         for(i=0;i<=acc;i++){
@@ -21,6 +32,17 @@ void line(){
 
         }    
 }
+
+/**
+ * @file Monthly_Financial_cal.c
+ * @author your name (abhishek.1599@gmail.com)
+ * @brief  Takes Input of Various Expenses and Input Data 
+ * @version 0.1
+ * @date 2021-04-11
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */  
 
 void input(){
         printf("Name :");
@@ -64,16 +86,20 @@ void input(){
 
  }
 
-void providentfund(){
+//for calculation of providentfund
+
+void providentfund(){  
 
     printf("Enter basic pay: ");
     scanf("%f",&basicPay);
      
     employeeFund=(basicPay/100)*EMPLOYEE_PERCENTAGE;
-    employerFund=(basicPay/100)*EMPLOYER_PERCENTAGE;
+    employerFund=(basicPay/100)*EMPLOYER_PERCENTAGE;   
      
     
 }
+
+//for calculation of totalamount i.e Deficit amount or Surplus Amount
 
  void calculate(){
      
@@ -82,6 +108,7 @@ void providentfund(){
         total_amount=totaldebit-totalcredit;
  }
 
+//books function for Expenses on Books
 
  int books(int o ){
         for(j=0;j<=o-1;j++){
@@ -94,6 +121,8 @@ void providentfund(){
 
  }
 
+
+//Display function for output
 
 void display(){
     line();
@@ -149,6 +178,8 @@ void display(){
         line();
 
 }
+
+//Final message if you are a smart budget planner or not this month
 
 void message(){
      if(totalcredit<totaldebit){
