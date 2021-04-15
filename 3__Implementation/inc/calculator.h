@@ -18,6 +18,12 @@
 #define EMPLOYEE_PERCENTAGE 12.5f
 #define EMPLOYER_PERCENTAGE 12.0f
 
+struct User
+{
+    char name[50];
+    float salary;
+};
+
 float fnp;
 float phone;
 float book[limit];
