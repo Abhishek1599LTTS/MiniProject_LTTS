@@ -15,16 +15,8 @@
 #include<stdlib.h>
 
 
-/**
- * @file Monthly_Financial_cal.c
- * @author your name (abhishek.1599@gmail.com)
- * @brief  Line function is for graphic design of the program 
- * @version 0.1
- * @date 2021-04-11
- * 
- * @copyright Copyright (c) 2021
- * 
- */  
+//Line function is for graphic design of the program 
+ 
   
 void line(){
         for(i=0;i<=acc;i++){
@@ -33,16 +25,8 @@ void line(){
         }    
 }
 
-/**
- * @file Monthly_Financial_cal.c
- * @author your name (abhishek.1599@gmail.com)
- * @brief  Takes Input of Various Expenses and Input Data 
- * @version 0.1
- * @date 2021-04-11
- * 
- * @copyright Copyright (c) 2021
- * 
- */  
+//  Takes Input of Various Expenses and Input Data 
+ 
 
 void input(){
         printf("Name :");
