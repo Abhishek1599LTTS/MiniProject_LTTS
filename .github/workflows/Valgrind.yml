@@ -1,0 +1,23 @@
+  
+name: CodeQuality Dynamic Code Analysis Valgrind
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  test:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: apt install dependency
+      run: |
+        sudo apt-get -y install valgrind
+        sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
+    - name: make test
+      run: make -C 3__Implementation/ test
+    - name: Valgrid
+      run: valgrind ./3__Implementation/build/Test_Calculator.out
