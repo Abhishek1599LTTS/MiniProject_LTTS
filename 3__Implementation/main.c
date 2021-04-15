@@ -18,6 +18,8 @@
 
 int main (){
  
+    struct User u1, u2; 
+ 
     line();
     printf("\n\t\tMonthly Financial Calculator\n");
     line();
