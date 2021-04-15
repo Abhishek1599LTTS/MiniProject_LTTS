@@ -14,10 +14,11 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+ /**
+ * @brief Line function is for graphic design of the program 
+ *
+ */
 
-//Line function is for graphic design of the program 
- 
-  
 void line(){
         for(i=0;i<=acc;i++){
             printf("-");
@@ -25,9 +26,13 @@ void line(){
         }    
 }
 
-//  Takes Input of Various Expenses and Input Data 
- 
 
+ /**
+ * @brief   Takes Input of Various Expenses and Input Data 
+ *
+ */
+
+ 
 void input(){
         printf("Name :");
         gets(name);
@@ -83,7 +88,10 @@ void providentfund(){
     
 }
 
-//for calculation of totalamount i.e Deficit amount or Surplus Amount
+/**
+ * @brief  for calculation of totalamount i.e Deficit amount or Surplus Amount
+ *
+ */
 
  void calculate(){
      
@@ -92,7 +100,11 @@ void providentfund(){
         total_amount=totaldebit-totalcredit;
  }
 
-//books function for Expenses on Books
+
+/**
+ * @brief  books function for Expenses on Books
+ *
+ */
 
  int books(int o ){
         for(j=0;j<=o-1;j++){
@@ -105,8 +117,11 @@ void providentfund(){
 
  }
 
+/**
+ * @brief  Display function for output
+ *
+ */
 
-//Display function for output
 
 void display(){
     line();
@@ -163,7 +178,11 @@ void display(){
 
 }
 
-//Final message if you are a smart budget planner or not this month
+
+/**
+ * @brief  Final message if you are a smart budget planner or not this month
+ *
+ */
 
 void message(){
      if(totalcredit<totaldebit){
